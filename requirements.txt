@@ -1,0 +1,4 @@
+streamlit == 1.41.0 
+langchain
+langchain_google_genai
+beautifulsoup4
